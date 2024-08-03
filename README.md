@@ -9,4 +9,5 @@ Application for saving explored places in different countries.
 - Google maps + marker clustering
 - Hilt - dependency injection
 - Room
+- DataStore
 - UI tests
